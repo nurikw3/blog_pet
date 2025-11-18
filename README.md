@@ -40,10 +40,10 @@ Below are some screenshots showing how the app works:
 ![Create Post](src/feed.jpg)
 *feed.*
 
-![Post List](src/upload.jpt)
+![Post List](src/upload.jpg)
 *upload.*
 
-![User Profile](src/code.jpt)
+![User Profile](src/code.jpg)
 *coding process.*
 
 > Replace the image filenames above with your actual image files in the `src` folder.
