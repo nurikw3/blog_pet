@@ -27,7 +27,7 @@ blog/
 
 ## How It Works
 1. Start the backend server using `app/app.py` (localhost:6969).
-2. Access the frontend via  `frontend.py` (localhost:8501).
+2. Access the frontend via  `frontend.py` (localhost:8501) (and use httpx).
 3. Register, log in, and create blog posts. (JWT, FastAPI-Users)
 4. Upload images to showcase your posts. (via cloud: https://imagekit.io/)
 
